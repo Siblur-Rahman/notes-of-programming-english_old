@@ -1,0 +1,26 @@
+@media (max-width: 980px) { 
+    .dropdown_content {
+        /* display: none; */
+        margin-right: -5%;
+
+        width: 200%;
+    }
+    .tnbr-content{
+        display: none;
+    }
+    .dropdown{
+        width: 50%;
+    }
+ }
+@media (max-width: 800px) { 
+    .dropdown_content {
+        margin-right: -5%;
+
+        width: 200%;
+    }
+ }
+@media (max-width: 610px) { 
+
+ }
+
+ 

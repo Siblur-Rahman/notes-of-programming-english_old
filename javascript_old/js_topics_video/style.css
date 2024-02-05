@@ -1,0 +1,17 @@
+.itc{
+    color: #fff !important;
+}
+pre {
+    width: 2%;
+    font-size: 27px !important;
+    padding-left: 2%;
+    font-weight: 900;
+    color: blue !important;
+}
+div{
+    display: flex;
+    background-color: #000;
+}
+video{
+    width: 75%;
+}
