@@ -5,7 +5,6 @@
             <li ><a href="../03.StringSearchMethods/03.StringSearchMethods.php" class="active_3">JS String Search Methods(3)</a></li>
             <li ><a href="../13.string_template/13.string_template.php" class="active_13">JS String Template(13)</a></li>
             <li ><a href="../more/operators.php" class="active_operator">JS Operator</a></li>
-            <li ><a href="../04.number_methods/04.number_methods.php" class="active_4">JS Number Methods(4)</a></li>
             <li ><a href="../JS Math/JS Math.php" class="active_math">JS Math</a></li>
             <li ><a href="../05.JS_coditions/05.JS_coditions.php" class="active_5">JS Conditions(5)</a></li>
             <li ><a href="../06.JS_switch/06.JS_switch.php" class="active_6">JS Switch(6)</a></li>
