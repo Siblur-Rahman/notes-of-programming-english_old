@@ -9,6 +9,12 @@
     --activeBG-2: #3374e4;
     --activeBG-3: #caccd0;
 }
+body{
+    font-family: Verdana, sans-serif;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    line-height: 23px;
+    font-size: 15px;
+}
 a{
     color: #000;
 }
@@ -50,27 +56,35 @@ p{
   }
   /* Accordion End */
 body{
-    margin: 0 !important;
-    font-size: 20px;
+    /* margin: 0 !important;
+    font-size: 20px; */
 }
 
-/* Top Nav-bar */
 #top_navbar {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     width: 100%;
-    height: 60px;
-    line-height: 60px;
+    height: 30px;
+    line-height: 30px;
     padding: 0 2% 0 0;
     z-index: 4;
-    background-color: #ebedf4;
+    /* background-color: #ebedf4; */
+    background-color: #01071b;
     position: fixed;
     top: 0;
-    font-size: 20px !important;
     border: 2px solid #dab20e;
 }
 #top_navbar a{
+    color: #f7f4f4;
+    font-size: 16px !important;
+    text-decoration: none;
     display: inline-block;
+    padding: 0 5px;
+}
+#top_navbar a:first-child{
+    color: #73ff00;
+    font-size: 24px !important;
+    font-weight: 900;
 }
 /* second-navbar */
 #second-navbar{
@@ -79,7 +93,7 @@ body{
     padding: 5px 20px;
     background-color: #ebedf4;
     position: fixed;
-    top: 60px;
+    top: 30px;
     left: 20%;
     display: flex;
     justify-content: space-between;
@@ -97,11 +111,6 @@ body{
 .my_dropdown{
     display: none;
     padding-left: 0;
-}
-#top_navbar a {
-    text-decoration: none;
-    display: inline-block;
-    padding: 0 10px;
 }
 /* Button */
 button{
@@ -128,7 +137,7 @@ button a{
     background-color: #ece7e7;
     z-index: 3;
     position: fixed;
-    top: 60px;
+    top: 30px;
     left: 0;
     overflow: auto;
     padding: 0 0 5% 0;
@@ -140,14 +149,13 @@ button a{
     width: 10%;
     z-index: 3;
     position: fixed;
-    top: 60px;
+    top: 30px;
     right: 0;
     overflow: auto;
     padding-bottom: 5%;
     padding-right: 1%;
     /* background-color: #2506ef; */
 }
-
 #left_bar .my_dropdown, #right_bar .my_dropdown {
     display: none;
     position: relative;
@@ -161,12 +169,17 @@ list-style-type: none;
 #left_bar a, #right_bar a {
     width: 100%;
     display: block;
+    font-family: "Segoe UI",Arial,sans-serif !important;
     font-size: 15px;
-    font-weight: 600;
+    font-weight: 400;
     text-decoration: none;
-    padding: 5px 0 5px 15px !important;
+    padding: 0 0 5px 15px !important;
 }
-
+#left_bar h5:first-child, #right_bar h5:first-child {
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 30px;
+}
 #main_content{
     width: 70%;
     height: 100%;

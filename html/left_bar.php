@@ -1,8 +1,7 @@
 <style>
    .html_active{
-   background: #BB2966;
-    line-height: 60px;
-    color: white !important;
+      background-color: var(--activeBG-1);
+      color: var(--activeColor);
    }
    .block_button{
       display: block;
@@ -10,9 +9,9 @@
    }
 </style>
 <div id="left_bar">
-<h5 class="all-center100">topics Notes</h5>
-      <ul class="">
-         <!-- topics Topics -->
-      <?php include'../html_topics/html_topics_left_bar.php'?>
+   <h5 class="center">HTML Notes</h5>
+      <ul>
+         <?php include'../html_topics/html_topics_left_bar.php'?>
+
       </ul>
 </div>

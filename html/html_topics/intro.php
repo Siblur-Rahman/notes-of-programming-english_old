@@ -1,12 +1,16 @@
-common_<!-- topics header -->
+
 <style>
 .active_intro{
-<?php include'../../active_1.php'?>
+      background-color: var(--activeBG-1);
+      color: var(--activeColor);
    }
 </style>
-<?php include'./html_topics_header.php'?>
-<div id="main_content"> <!-- Start Main Content -->
-   <h2>HTML Introduction<span><a href="" target="_blank"> Details</a></span></h2>
+<!-- css topics header -->
+<?php include'../../common_header.php'?>
+
+<div id="main_content"><!-- Start Main Content -->
+
+<h2>HTML Introduction<span><a href="" target="_blank"> Details</a></span></h2>
    <p>HTML is the standard markup language for creating Web pages.</p>
    <h2>What is HTML?</h2>
    <div class="mark">
@@ -23,6 +27,8 @@ HTML elements label pieces of content such as "this is a heading", "this is a pa
 
    </div>
 
+      
+
 </div><!-- End Main Content -->
-<!--common footer -->
+<!--Common footer -->
 <?php include('../../common_footer.php') ?>

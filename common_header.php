@@ -17,14 +17,16 @@
 </head>
 <body>
 <div id="top_navbar"><!--Start Top-nav--->
+            <a href="../../../all-notes/index.html" class="all_notes_active">All Notes</a>
+            <a href="../../P-Hero/milestones/index.php" class="p-hero_active">P-HERO</a>
             <a href="../../html/html_topics/intro.php" class="html_active">HTML</a>
             <a href="../../css_notes/css_topics/001.introduction.php" class="css_active">CSS</a>
-            <a href="../../css_tailwind/tailwind_topics/intro.php" class="tailwind_active">Tailwind</a>
+            <a href="../../css_tailwind/tailwind_topics/intro.php" class="tailwind_active">TAILWIND</a>
             <a href="../../javascript/js_intro/js_intro.php" class="js_active" >JAVASCRIPT</a>
-            <a href="../../react/react_topics/some_comand_ext.php" class="react_active">React</a>
+            <a href="../../react/react_topics/some_command_ext.php" class="react_active">REACT</a>
             <a href="../../backend/backend_intro/backend_intro.php" class="backend_active">BACKEND</a>
             <a href="../../projects/projects.php" class="projects" target="_blank">PROJECTS</a>
-            <a href="../../english/various_topics/dailyRoutine.php" class="english_active">English</a>
+            <a href="../../english/various_topics/dailyRoutine.php" class="english_active">ENGLISH</a>
             <a href="../../tools/my_notes/keyboard_shortcut.php">Tools</a>
 </div><!--Start Top-nav-Bar--->
 

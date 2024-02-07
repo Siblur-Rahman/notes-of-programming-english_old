@@ -19,7 +19,7 @@
         box-sizing: border-box;
     }
     header{
-        width: 40%;
+        /* width: 40%; */
         margin:  auto;
         text-align: center;
         padding: 2% 0;
@@ -54,6 +54,7 @@
     <section>
         <div class="div-1"><a href="./html/html_topics/entities.php">Programming</a></div>
         <div class="div-1"><a href="./english/various_topics/dailyRoutine.php" >English</a></div>
+        <div class="div-1"><a href="../all-notes/index.html">All Notes</a></div>
     </section>
 </body>
 </html>

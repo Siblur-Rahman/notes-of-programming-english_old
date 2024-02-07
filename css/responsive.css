@@ -2,16 +2,19 @@
     #top_navbar{
         flex-wrap:wrap;
         justify-content: start;
-        height: 120px;
+        height: 60px;
     }
     #left_bar, #right_bar, #main_content{
-        top: 120px;
+        top: 60px;
     }
     #second-navbar+#main_content{
-        top: 180px;
+        top: 90px;
     }
 #second-navbar{
-    top: 120px;
+    top: 60px;
+}
+.to_jump{
+    padding-top: 60px;
 }
     .dropdown{
         width: 50%;

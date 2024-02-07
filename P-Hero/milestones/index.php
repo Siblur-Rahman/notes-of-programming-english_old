@@ -10,7 +10,10 @@
 
 <div id="main_content"><!-- Start Main Content -->
 
-<h2><span><a href="" target="_blank"> Details</a></span></h2>
+<?php include'./milestone-01.php'?>
+<?php include'./milestone-02.php'?>
+<?php include'./milestone-03.php'?>
+<?php include'./milestone-04.php'?>
 
       
 
