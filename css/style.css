@@ -342,35 +342,3 @@ pre{
     text-decoration: none;
     color: black;
 }
-/* Accordion Start */
-/* .accordion {
-    cursor: pointer;
-    margin-bottom: 10px;
-    width: 100%;
-    border: none;
-    text-align: left;
-    outline: none;
-    transition: 0.4s;
-}
-  
-  .active, .accordion:hover {
-    background-color: #BB2966;
-  }
-  
-  .accordion:after {
-    content: '\002B';
-    font-weight: bold;
-    float: right;
-    margin-left: 5px;
-}
-  
-  .active:after {
-    content: "\2212";
-  }
-  
-  .panel {
-
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
-  } */

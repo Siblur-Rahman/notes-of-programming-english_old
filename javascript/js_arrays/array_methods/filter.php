@@ -51,5 +51,5 @@
       })
       console.log(result)//[ 45, 9, 16, 25 ]
       </p>
-      <button><a href="./14.filter_example.html">Filter Dynamically</a></button>
+      <button><a href="./array_methods/filter_example.html">Filter Dynamically</a></button>
    </div><!--End panel 4-->

@@ -1,10 +1,10 @@
 
-<li><a href="../js_object/object.php" class="active_obj">JS object</a></li>
-<ul class="my_dropdown obj_dropdown">
-    <li class="object_active"><a href="./object.php">Object</a></li>
-    <li class="maps_active"><a href="./maps.php">Object Maps</a></li>
-    <li class="sets_active"><a href="./sets.php">Object Sets</a></li>
-    <!-- <li><a href=""></a></li> -->
-    <!-- <li><a href=""></a></li> -->
-    <!-- <li><a href=""></a></li> -->
-</ul>
+<a href="../js_object/object.php" class="active_obj">JS object</a>
+<div class="my_dropdown obj_dropdown">
+    <a href="./object.php">Object</a>
+    <a href="./maps.php" class="object_active" class="maps_active">Object Maps</a>
+    <a href="./sets.php" class="sets_active">Object Sets</a>
+    <!-- <li><a href=""></a> -->
+    <!-- <li><a href=""></a> -->
+    <!-- <li><a href=""></a> -->
+</div>
