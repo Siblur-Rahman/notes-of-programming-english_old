@@ -102,7 +102,7 @@
       <div class="panel">
             <a href="#md-">Module-</a>
             <!-- Conceptual Sessions -->
-            <a href="#m--cs-" class="">CS test</a>
+            <a href="#m--cs-" class="">CS</a>
       </div>
       
 </div>

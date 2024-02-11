@@ -8,7 +8,6 @@
           <!-- <a href="./dom_forms/dom_forms.php" class="form_active">DOM Forms</a> -->
           <a href="./dom_css/dom_css.php" class="css_active">DOM CSS</a>
           <a href="./DOM_Events.php" class="active_event">DOM Events</a>
-          <a href="./dom_event_lis/dom_event_lis.php" class="list_active">1DOM EventListener</a>
           <!-- <a href="" class="active_"></a> -->
           <!-- <a href="" class="active_"></a> -->
           <!-- <a href="" class="active_"></a> -->
